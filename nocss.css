@@ -1,0 +1,16 @@
+* {
+  box-sizing: border-box;
+}
+
+canvas {
+  border: 1px black solid;
+}
+
+#canv {
+  position: absolute;
+  display: none;
+}
+
+#canv2 {
+position: absolute;
+}
